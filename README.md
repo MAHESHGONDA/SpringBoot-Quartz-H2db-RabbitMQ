@@ -34,7 +34,3 @@ RabbitMQ is not in use by default. steps blow should be followed to test it.
 2. update the rabbitmq configuration in `application.properties`
 3. uncomment code in file `Receiver.java` & `QuartzJobFactory.java` & `RabbitConfig.java`
 
-## references
-
-- [https://github.com/davidkiss/spring-boot-quartz-demo](https://github.com/davidkiss/spring-boot-quartz-demo)
-- [https://gist.github.com/jelies/5085593](https://gist.github.com/jelies/5085593)
